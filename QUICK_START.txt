@@ -1,0 +1,193 @@
+╔══════════════════════════════════════════════════════════════╗
+║          🚀 EXPERT PORTAL - QUICK START GUIDE               ║
+╚══════════════════════════════════════════════════════════════╝
+aayush
+📋 SETUP DATABASE (First Time Only)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+cd backend
+./setup-db.sh
+# Enter your MySQL root password when prompted
+
+🔧 Or manually:
+mysql -u root -p
+CREATE DATABASE expert_portal;
+exit;
+mysql -u root -p expert_portal < backend/database/schema.sql
+
+Then edit backend/.env:
+DB_PASSWORD=your_mysql_password
+
+
+🚀 START SERVERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Terminal 1 (Backend):
+  cd backend
+  npm run dev
+  ➜ http://localhost:5000
+
+Terminal 2 (Frontend):
+  cd /Users/user68/Desktop/ExpertWeb/expert-portal
+  npm start
+  ➜ http://localhost:3000
+
+
+🎯 USAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Open http://localhost:3000
+2. Click "Sign Up" (or go to /register)
+3. Fill in your details:
+   - Full Name *
+   - Email *
+   - Password * (min 6 chars)
+   - Confirm Password *
+   - Other fields optional
+4. Click "Create Account"
+5. You're automatically logged in! 🎉
+
+Login Next Time:
+  - Go to /login
+  - Enter email & password
+  - Click "Sign In"
+
+
+🗄️ DATABASE TABLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ experts       - Expert accounts
+✓ clients       - Client accounts
+✓ appointments  - Bookings
+✓ availability  - Schedule slots
+✓ messages      - Chat messages
+✓ earnings      - Payment records
+✓ payouts       - Payout transactions
+
+
+📡 API ENDPOINTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Auth:
+  POST   /api/auth/register      - Sign up
+  POST   /api/auth/login         - Login
+  GET    /api/auth/me            - Get profile
+
+Appointments:
+  GET    /api/appointments        - List all
+  GET    /api/appointments/:id   - Get one
+  PUT    /api/appointments/:id   - Update
+  GET    /api/appointments/stats/dashboard - Stats
+
+Availability:
+  GET    /api/availability        - Get schedule
+  POST   /api/availability        - Add slot
+  DELETE /api/availability/:id   - Delete slot
+
+Messages:
+  GET    /api/messages/:appointmentId    - Get chat
+  POST   /api/messages                   - Send message
+  PUT    /api/messages/read/:appointmentId - Mark read
+
+Earnings:
+  GET    /api/earnings            - Summary
+  GET    /api/earnings/payouts    - History
+  POST   /api/earnings/request-payout - Request
+
+
+🧪 TEST BACKEND
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+curl http://localhost:5000/health
+
+Should return:
+{"success": true, "message": "Expert Portal API is running"}
+
+
+⚠️ TROUBLESHOOTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+❌ MySQL not running:
+   brew services start mysql
+
+❌ Can't connect to DB:
+   - Check MySQL password in backend/.env
+   - Test: mysql -u root -p
+
+❌ Backend won't start:
+   cd backend && npm install
+
+❌ Frontend can't connect:
+   - Make sure backend is running
+   - Check frontend/.env has: REACT_APP_API_URL=http://localhost:5000/api
+   - Restart frontend: npm start
+
+❌ Login fails:
+   - Make sure you registered first
+   - Check password is correct
+   - Clear browser localStorage
+
+
+📁 KEY FILES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Frontend:
+  src/pages/Register.tsx        - Sign up page (NEW)
+  src/pages/Login.tsx           - Login page (updated)
+  src/context/AuthContext.tsx   - Auth state (real)
+  src/services/api.ts           - API client (NEW)
+  .env                          - Config
+
+Backend:
+  backend/server.js             - Main server
+  backend/routes/auth.js        - Auth API
+  backend/database/schema.sql   - DB schema
+  backend/.env                  - Config
+  backend/setup-db.sh          - Auto setup
+
+
+🎨 FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Beautiful Tailwind UI with gradients
+✅ Real JWT authentication
+✅ Password hashing (bcryptjs)
+✅ MySQL database with 8 tables
+✅ Complete REST API
+✅ Token-based sessions
+✅ Protected routes
+✅ Error handling
+✅ Loading states
+✅ Responsive design
+
+
+🔒 SECURITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Passwords hashed with bcrypt
+✓ JWT tokens (7-day expiry)
+✓ Protected API routes
+✓ SQL injection prevention
+✓ Input validation
+✓ CORS configured
+
+
+💡 QUICK COMMANDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Setup (first time)
+cd backend && ./setup-db.sh
+
+# Start backend
+cd backend && npm run dev
+
+# Start frontend
+npm start
+
+# Reset database
+mysql -u root -p -e "DROP DATABASE expert_portal;"
+cd backend && ./setup-db.sh
+
+# Check what's in database
+mysql -u root -p expert_portal
+SELECT * FROM experts;
+
+
+🎉 YOU'RE ALL SET!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Run backend:  cd backend && npm run dev
+2. Run frontend: npm start
+3. Go to:        http://localhost:3000
+4. Click:        "Sign Up"
+5. Register & enjoy! 🚀
+
+For detailed guide, see: SETUP_COMPLETE.md
