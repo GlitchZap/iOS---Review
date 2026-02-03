@@ -1,0 +1,102 @@
+{
+  "sleep_routines": {
+    "title": "Healthy Sleep Routines",
+    "urls": [
+      "https://www.sleepfoundation.org/children-and-sleep/bedtime-routine",
+      "https://www.healthychildren.org/English/healthy-living/sleep/Pages/healthy-sleep-habits-how-many-hours-does-your-child-need.aspx",
+      "https://www.seattlechildrens.org/health-safety/nutrition-wellness/good-night-sleep-routine/",
+      "https://www.chop.edu/primary-care/healthy-sleep-habits",
+      "https://www.parents.com/bedtime-routine-children-8661139",
+      "https://www.babysleepscience.com"
+    ],
+    "pdfs": [
+      "https://www.thoracic.org/patients/patient-resources/resources/healthy-sleep-in-children.pdf"
+    ]
+  },
+  "tantrums": {
+    "title": "Taming Tantrums",
+    "urls": [
+      "https://www.zerotothree.org/resource/toddler-tantrums/",
+      "https://www.zerotothree.org/resource/toddler-tantrums-101-why-they-happen-and-what-you-can-do/",
+      "https://www.zerotothree.org/resource/pro-tips-for-managing-toddler-tantrums/",
+      "https://www.healthline.com/health/childrens-health/3-year-old-tantrums",
+      "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/tantrum/art-20047845",
+      "https://www.parents.com/toddlers-preschoolers/development/behavioral/expert-tips-to-help-your-sensitive-child-navigate-an-overwhelming-world/",
+      "https://www.parents.com/kids/development/behavioral/emotionally-sensitive-children/",
+      "https://www.parents.com/emotional-regulation-skills-8692759"
+    ]
+  },
+  "screen_time": {
+    "title": "Managing Screen Time",
+    "urls": [
+      "https://www.commonsensemedia.org",
+      "https://www.healthline.com/health/parenting/screen-time-for-kids",
+      "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/6-tips-to-reduce-childrens-screen-time",
+      "https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa"
+    ]
+  },
+  "eating_habits": {
+    "title": "Healthy Eating Habits",
+    "urls": [
+      "https://www.healthline.com/nutrition/healthy-eating-for-kids",
+      "https://www.healthychildren.org/English/ages-stages/toddler/nutrition/Pages/Picky-Eaters.aspx",
+      "https://pallaviqslimfitness.com/blog/how-to-build-healthy-eating-habits-in-kids-indian-nutritionist-tips/",
+      "https://www.complan.in/health-nutrition/healthy-eating-habits-for-kids/",
+      "https://www.eatright.org",
+      "https://www.myplate.gov"
+    ]
+  },
+  "potty_training": {
+    "title": "Potty Training",
+    "urls": [
+      "https://www.healthychildren.org/english/ages-stages/toddler/toilet-training/pages/creating-a-toilet-training-plan.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/the-right-age-to-toilet-train.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/Praise-and-Reward-Your-Childs-Success.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/How-to-Tell-When-Your-Child-is-Ready.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/default.aspx",
+      "https://www.whattoexpect.com"
+    ]
+  },
+  "social_skills": {
+    "title": "Building Social Skills",
+    "urls": [
+      "https://raisingchildren.net.au/school-age/connecting-communicating/connecting/supporting-friendships",
+      "https://sunshine-parenting.com/10-friendship-skills-every-kid-needs/",
+      "https://healthmatters.nyp.org/how-parents-can-help-their-kids-make-strong-friendships/",
+      "https://www.sws.ac.in/blog/social-skills-for-young-learners-building-friendships-and-teamwork",
+      "https://www.parents.com/toddlers-preschoolers/development/social/social-skills-activities-for-kids-to-do-at-home/",
+      "https://childmind.org/blog/how-pretend-play-helps-children-build-skills/"
+    ]
+  },
+  "separation_anxiety": {
+    "title": "Easing Separation Anxiety",
+    "urls": [
+      "https://www.anxietycanada.com/anxiety-disorder/separation-anxiety/",
+      "https://www.heretohelp.bc.ca/infosheet/separation-anxiety-disorder",
+      "https://www.stanfordchildrens.org/en/topic/default?id=separation-anxiety-disorder-in-children-90-P02582",
+      "https://www.anxietycanada.com/learn-about-anxiety/anxiety-in-children/",
+      "https://www.parents.com/kids/education/kindergarten/first-day-of-kindergarten-ways-to-prepare/"
+    ],
+    "pdfs": [
+      "https://www.anxietycanada.com/wp-content/uploads/2019/08/hm_Separation.pdf",
+      "https://www.anxietycanada.com/wp-content/uploads/2019/08/CopingwithBacktoSchool.pdf",
+      "https://www.anxietycanada.com/wp-content/uploads/2018/08/Separation-Anxiety-Doc-FINAL-2.pdf"
+    ]
+  },
+  "behavior_management": {
+    "title": "Positive Behavior Management",
+    "urls": [
+      "https://www.zerotothree.org/resource/helping-young-toddlers-cope-with-limits/",
+      "https://www.zerotothree.org/resource/challenging-behavior/",
+      "https://kidsusamontessori.org/what-are-the-most-effective-behavior-management-strategies-in-early-childhood/",
+      "https://headstart.gov/mental-health/article/understanding-managing-childrens-behaviors",
+      "https://www.cdc.gov/child-development/positive-parenting-tips/preschooler-3-5-years.html",
+      "https://www.parents.com/toddlers-preschoolers/discipline/tips/smart-discipline-for-every-age/",
+      "https://www.positivediscipline.com",
+      "https://www.handinhandparenting.com"
+    ],
+    "pdfs": [
+      "https://www.indianaadoptionprogram.org/wp-content/uploads/2022/04/Managing-Behavior-Problems-The-Complete-Guide-ChildMind.org_.pdf"
+    ]
+  }
+}

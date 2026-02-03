@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+newspaper3k
+readability-lxml
+python-dateutil
+tqdm
+numpy
+lxml
+openai
+PyPDF2

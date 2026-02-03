@@ -1,0 +1,27 @@
+[
+  {
+    "name": "American Academy of Pediatrics - HealthyChildren",
+    "seed": "https://healthychildren.org/English/Pages/default.aspx",
+    "domain": "healthychildren.org"
+  },
+  {
+    "name": "KidsHealth",
+    "seed": "https://kidshealth.org/",
+    "domain": "kidshealth.org"
+  },
+  {
+    "name": "Zero to Three",
+    "seed": "https://www.zerotothree.org/",
+    "domain": "zerotothree.org"
+  },
+  {
+    "name": "Parenting.com",
+    "seed": "https://www.parenting.com/",
+    "domain": "parenting.com"
+  },
+  {
+    "name": "Verywell Family",
+    "seed": "https://www.verywellfamily.com/",
+    "domain": "verywellfamily.com"
+  }
+]

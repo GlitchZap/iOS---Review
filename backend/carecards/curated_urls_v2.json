@@ -1,0 +1,224 @@
+{
+  "sleep_routines": {
+    "title": "Healthy Sleep Routines",
+    "description": "Building better bedtime habits for restful nights",
+    "age_groups": {
+      "2-4": ["toddler sleep", "bedtime routine toddler", "night fears"],
+      "4-6": ["preschooler sleep", "bedtime battles", "nightmares"],
+      "6-8": ["school age sleep", "homework and sleep", "sleep schedule"],
+      "8-10": ["tween sleep", "growing sleep needs", "screen time sleep"]
+    },
+    "urls": [
+      "https://www.sleepfoundation.org/children-and-sleep/bedtime-routine",
+      "https://www.healthychildren.org/English/healthy-living/sleep/Pages/healthy-sleep-habits-how-many-hours-does-your-child-need.aspx",
+      "https://www.seattlechildrens.org/health-safety/nutrition-wellness/good-night-sleep-routine/",
+      "https://www.chop.edu/primary-care/healthy-sleep-habits",
+      "https://www.parents.com/bedtime-routine-children-8661139",
+      "https://www.babysleepscience.com",
+      "https://www.verywellfamily.com/how-to-establish-a-bedtime-routine-2764983",
+      "https://www.whattoexpect.com/toddler/sleep/toddler-sleep-schedule",
+      "https://www.healthline.com/health/parenting/toddler-bedtime-routine"
+    ],
+    "pdfs": [
+      "https://www.thoracic.org/patients/patient-resources/resources/healthy-sleep-in-children.pdf"
+    ]
+  },
+  "tantrums": {
+    "title": "Taming Tantrums",
+    "description": "Understanding and managing emotional outbursts",
+    "age_groups": {
+      "2-4": ["toddler tantrums", "terrible twos", "meltdowns", "emotional regulation"],
+      "4-6": ["preschool tantrums", "frustration", "emotional outbursts"],
+      "6-8": ["older child tantrums", "anger management", "emotional control"]
+    },
+    "urls": [
+      "https://www.zerotothree.org/resource/toddler-tantrums/",
+      "https://www.zerotothree.org/resource/toddler-tantrums-101-why-they-happen-and-what-you-can-do/",
+      "https://www.zerotothree.org/resource/pro-tips-for-managing-toddler-tantrums/",
+      "https://www.healthline.com/health/childrens-health/3-year-old-tantrums",
+      "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/tantrum/art-20047845",
+      "https://www.parents.com/toddlers-preschoolers/development/behavioral/expert-tips-to-help-your-sensitive-child-navigate-an-overwhelming-world/",
+      "https://www.parents.com/kids/development/behavioral/emotionally-sensitive-children/",
+      "https://www.parents.com/emotional-regulation-skills-8692759",
+      "https://www.verywellfamily.com/tantrum-vs-meltdown-4161702",
+      "https://childmind.org/article/why-do-kids-have-tantrums-and-meltdowns/",
+      "https://www.positivediscipline.com/articles/temper-tantrums"
+    ]
+  },
+  "screen_time": {
+    "title": "Managing Screen Time",
+    "description": "Balancing technology in your child's life",
+    "age_groups": {
+      "2-4": ["toddler screen time", "educational apps", "tv limits"],
+      "4-6": ["preschool media", "tablet time", "screen limits"],
+      "6-8": ["gaming limits", "homework screens", "digital balance"],
+      "8-10": ["social media awareness", "online safety", "tech boundaries"]
+    },
+    "urls": [
+      "https://www.commonsensemedia.org/articles/what-are-the-best-practices-for-screen-time",
+      "https://www.healthline.com/health/parenting/screen-time-for-kids",
+      "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/6-tips-to-reduce-childrens-screen-time",
+      "https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa",
+      "https://www.verywellfamily.com/screen-time-recommendations-for-kids-4145821",
+      "https://www.parents.com/kids/development/screen-time-for-kids/",
+      "https://childmind.org/article/how-much-screen-time-is-too-much/"
+    ]
+  },
+  "eating_habits": {
+    "title": "Healthy Eating Habits",
+    "description": "Encouraging nutritious eating patterns",
+    "age_groups": {
+      "2-4": ["picky toddler", "food refusal", "mealtime battles", "finger foods"],
+      "4-6": ["preschool nutrition", "trying new foods", "healthy snacks"],
+      "6-8": ["school lunch", "balanced meals", "food variety"],
+      "8-10": ["tween nutrition", "sports nutrition", "body image food"]
+    },
+    "urls": [
+      "https://www.healthline.com/nutrition/healthy-eating-for-kids",
+      "https://www.healthychildren.org/English/ages-stages/toddler/nutrition/Pages/Picky-Eaters.aspx",
+      "https://pallaviqslimfitness.com/blog/how-to-build-healthy-eating-habits-in-kids-indian-nutritionist-tips/",
+      "https://www.complan.in/health-nutrition/healthy-eating-habits-for-kids/",
+      "https://www.eatright.org/food/nutrition/eating-as-a-family/do-you-have-a-picky-eater",
+      "https://www.myplate.gov/life-stages/kids",
+      "https://www.verywellfamily.com/picky-eating-in-toddlers-289572",
+      "https://parenting.firstcry.com/articles/healthy-eating-habits-for-kids/",
+      "https://www.parents.com/recipes/nutrition/kids/how-to-get-picky-eaters-to-try-new-foods/"
+    ]
+  },
+  "potty_training": {
+    "title": "Potty Training",
+    "description": "A gentle approach to toilet training",
+    "age_groups": {
+      "2-4": ["potty readiness", "toilet training", "accidents", "nighttime dryness"]
+    },
+    "urls": [
+      "https://www.healthychildren.org/english/ages-stages/toddler/toilet-training/pages/creating-a-toilet-training-plan.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/the-right-age-to-toilet-train.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/Praise-and-Reward-Your-Childs-Success.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/How-to-Tell-When-Your-Child-is-Ready.aspx",
+      "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/default.aspx",
+      "https://www.whattoexpect.com/toddler/potty-training/",
+      "https://www.verywellfamily.com/potty-training-tips-that-work-289538",
+      "https://www.parents.com/toddlers-preschoolers/potty-training/tips/potty-training-in-three-days/",
+      "https://parenting.firstcry.com/articles/potty-training-tips/"
+    ]
+  },
+  "social_skills": {
+    "title": "Building Social Skills",
+    "description": "Helping your child make friends and interact",
+    "age_groups": {
+      "2-4": ["parallel play", "sharing", "turn taking", "first friendships"],
+      "4-6": ["cooperative play", "making friends", "playground skills"],
+      "6-8": ["school friendships", "group dynamics", "conflict resolution"],
+      "8-10": ["peer pressure", "deeper friendships", "social confidence"]
+    },
+    "urls": [
+      "https://raisingchildren.net.au/school-age/connecting-communicating/connecting/supporting-friendships",
+      "https://sunshine-parenting.com/10-friendship-skills-every-kid-needs/",
+      "https://healthmatters.nyp.org/how-parents-can-help-their-kids-make-strong-friendships/",
+      "https://www.sws.ac.in/blog/social-skills-for-young-learners-building-friendships-and-teamwork",
+      "https://www.parents.com/toddlers-preschoolers/development/social/social-skills-activities-for-kids-to-do-at-home/",
+      "https://childmind.org/blog/how-pretend-play-helps-children-build-skills/",
+      "https://www.verywellfamily.com/teaching-social-skills-to-kids-4589898",
+      "https://www.parentcircle.com/how-to-help-your-child-make-friends/article"
+    ]
+  },
+  "separation_anxiety": {
+    "title": "Easing Separation Anxiety",
+    "description": "Helping your child feel secure when apart",
+    "age_groups": {
+      "2-4": ["daycare anxiety", "clingy toddler", "goodbye tears"],
+      "4-6": ["school anxiety", "first day fears", "drop off struggles"]
+    },
+    "urls": [
+      "https://www.anxietycanada.com/anxiety-disorder/separation-anxiety/",
+      "https://www.heretohelp.bc.ca/infosheet/separation-anxiety-disorder",
+      "https://www.stanfordchildrens.org/en/topic/default?id=separation-anxiety-disorder-in-children-90-P02582",
+      "https://www.anxietycanada.com/learn-about-anxiety/anxiety-in-children/",
+      "https://www.parents.com/kids/education/kindergarten/first-day-of-kindergarten-ways-to-prepare/",
+      "https://childmind.org/article/what-to-do-and-not-do-when-children-are-anxious/",
+      "https://www.verywellfamily.com/separation-anxiety-in-children-4174606",
+      "https://parenting.firstcry.com/articles/separation-anxiety-in-toddlers/"
+    ],
+    "pdfs": [
+      "https://www.anxietycanada.com/wp-content/uploads/2019/08/hm_Separation.pdf",
+      "https://www.anxietycanada.com/wp-content/uploads/2019/08/CopingwithBacktoSchool.pdf",
+      "https://www.anxietycanada.com/wp-content/uploads/2018/08/Separation-Anxiety-Doc-FINAL-2.pdf"
+    ]
+  },
+  "behavior_management": {
+    "title": "Positive Behavior Management",
+    "description": "Guiding behavior with empathy and consistency",
+    "age_groups": {
+      "2-4": ["toddler discipline", "saying no", "limit setting", "toddler defiance"],
+      "4-6": ["preschool behavior", "following rules", "consequences"],
+      "6-8": ["school behavior", "responsibility", "self-control"],
+      "8-10": ["tween behavior", "independence", "accountability"]
+    },
+    "urls": [
+      "https://www.zerotothree.org/resource/helping-young-toddlers-cope-with-limits/",
+      "https://www.zerotothree.org/resource/challenging-behavior/",
+      "https://kidsusamontessori.org/what-are-the-most-effective-behavior-management-strategies-in-early-childhood/",
+      "https://headstart.gov/mental-health/article/understanding-managing-childrens-behaviors",
+      "https://www.cdc.gov/child-development/positive-parenting-tips/preschooler-3-5-years.html",
+      "https://www.parents.com/toddlers-preschoolers/discipline/tips/smart-discipline-for-every-age/",
+      "https://www.positivediscipline.com/articles/positive-discipline-guidelines",
+      "https://www.handinhandparenting.org/article/setting-limits-with-children/",
+      "https://childmind.org/article/how-to-give-kids-effective-instructions/",
+      "https://www.verywellfamily.com/positive-discipline-strategies-1094924",
+      "https://parenting.firstcry.com/articles/positive-discipline-for-toddlers/"
+    ],
+    "pdfs": [
+      "https://www.indianaadoptionprogram.org/wp-content/uploads/2022/04/Managing-Behavior-Problems-The-Complete-Guide-ChildMind.org_.pdf"
+    ]
+  },
+  "mixed_emotional_development": {
+    "title": "Emotional Development",
+    "description": "Building emotional intelligence and resilience",
+    "age_groups": {
+      "2-4": ["emotional awareness", "naming feelings", "comfort seeking"],
+      "4-6": ["emotional expression", "empathy building", "frustration tolerance"],
+      "6-8": ["emotional regulation", "coping skills", "resilience"],
+      "8-10": ["emotional intelligence", "self-awareness", "stress management"]
+    },
+    "urls": [
+      "https://www.zerotothree.org/resource/developing-social-emotional-skills/",
+      "https://childmind.org/article/how-to-help-kids-manage-emotions/",
+      "https://www.parents.com/emotional-regulation-skills-8692759",
+      "https://www.verywellfamily.com/teaching-emotional-intelligence-620838",
+      "https://raisingchildren.net.au/toddlers/behaviour/understanding-behaviour/emotions"
+    ]
+  },
+  "mixed_confidence_independence": {
+    "title": "Building Confidence & Independence",
+    "description": "Fostering self-esteem and autonomy",
+    "age_groups": {
+      "2-4": ["toddler independence", "self-help skills", "trying new things"],
+      "4-6": ["preschool confidence", "problem solving", "decision making"],
+      "6-8": ["school confidence", "self-esteem", "taking risks"],
+      "8-10": ["tween independence", "responsibility", "self-advocacy"]
+    },
+    "urls": [
+      "https://childmind.org/article/12-tips-raising-confident-kids/",
+      "https://www.parents.com/parenting/better-parenting/advice/ways-to-boost-your-childs-self-esteem/",
+      "https://www.verywellfamily.com/ways-to-build-confidence-in-kids-4842289",
+      "https://raisingchildren.net.au/preschoolers/development/development-tracker/3-4-years"
+    ]
+  },
+  "mixed_sibling_family": {
+    "title": "Sibling & Family Dynamics",
+    "description": "Navigating relationships at home",
+    "age_groups": {
+      "2-4": ["new sibling", "sibling jealousy", "sharing attention"],
+      "4-6": ["sibling rivalry", "fairness", "family roles"],
+      "6-8": ["sibling conflict", "cooperation", "family teamwork"],
+      "8-10": ["sibling relationships", "privacy", "family communication"]
+    },
+    "urls": [
+      "https://www.verywellfamily.com/sibling-rivalry-causes-and-what-to-do-about-it-1094757",
+      "https://childmind.org/article/helping-siblings-get-along/",
+      "https://raisingchildren.net.au/toddlers/family-life/siblings/sibling-fighting",
+      "https://www.parents.com/parenting/sibling-rivalry/"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "tantrums",
+    "title": "Taming Tantrums",
+    "description": "Understanding and managing emotional outbursts",
+    "age_groups": ["2-4", "4-6", "6-8"],
+    "keywords": ["tantrum", "meltdown", "anger", "frustration", "emotional outburst", "crying fit"]
+  },
+  {
+    "id": "sleep_routines",
+    "title": "Healthy Sleep Routines",
+    "description": "Building better bedtime habits",
+    "age_groups": ["2-4", "4-6", "6-8", "8-10"],
+    "keywords": ["sleep", "bedtime", "night routine", "sleeping habits", "insomnia", "nightmares"]
+  },
+  {
+    "id": "screen_time",
+    "title": "Managing Screen Time",
+    "description": "Balancing technology in your child's life",
+    "age_groups": ["2-4", "4-6", "6-8", "8-10"],
+    "keywords": ["screen time", "tablet", "phone", "tv", "digital", "video games", "technology"]
+  },
+  {
+    "id": "eating_habits",
+    "title": "Healthy Eating Habits",
+    "description": "Encouraging nutritious eating patterns",
+    "age_groups": ["2-4", "4-6", "6-8", "8-10"],
+    "keywords": ["picky eater", "eating habits", "nutrition", "food", "meal time", "healthy eating"]
+  },
+  {
+    "id": "potty_training",
+    "title": "Potty Training",
+    "description": "A gentle approach to toilet training",
+    "age_groups": ["2-4"],
+    "keywords": ["potty training", "toilet training", "diaper", "bathroom", "accidents"]
+  },
+  {
+    "id": "social_skills",
+    "title": "Building Social Skills",
+    "description": "Helping your child make friends and interact",
+    "age_groups": ["2-4", "4-6", "6-8", "8-10"],
+    "keywords": ["social skills", "making friends", "sharing", "playing together", "communication"]
+  },
+  {
+    "id": "separation_anxiety",
+    "title": "Easing Separation Anxiety",
+    "description": "Helping your child feel secure when apart",
+    "age_groups": ["2-4", "4-6"],
+    "keywords": ["separation anxiety", "clingy", "school drop off", "fear of separation", "attachment"]
+  },
+  {
+    "id": "behavior_management",
+    "title": "Positive Behavior Management",
+    "description": "Guiding behavior with empathy and consistency",
+    "age_groups": ["2-4", "4-6", "6-8", "8-10"],
+    "keywords": ["behavior", "discipline", "boundaries", "rules", "consequences", "positive parenting"]
+  }
+]
