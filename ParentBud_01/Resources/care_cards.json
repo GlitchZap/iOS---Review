@@ -1,0 +1,222 @@
+[
+  {
+    "id": "3012857e0a27fc2c5483ad73",
+    "topic_id": "tantrums",
+    "title": "Taming Tantrums",
+    "subtitle": "Understand why tantrums happen and learn compassionate strategies to help your child navigate big emotions with confidence.",
+    "color_theme": "warm",
+    "age_groups": ["toddler", "preschool"],
+    "tips": [
+      "Tantrums are not misbehavior—they're emotional overloads. When your child's big feelings overwhelm their still-developing brain, they literally cannot think clearly or control their reactions. Your calm presence becomes their anchor, helping them learn to ride emotional waves safely.",
+      "Frustration tantrums happen when children can't express themselves or complete a task they desperately want to finish. Rage tantrums involve loss of control and possible self-harm. Understanding the type helps you respond appropriately—redirection works for frustration, while rage needs your calm containment.",
+      "Catch tantrums early by redirecting attention to another activity before the storm builds. If you notice your child struggling with a toy, gently guide them to something else. In public, changing your location can help remove environmental triggers like crowded playgrounds.",
+      "Responding consistently to tantrums—even when you're tired—pays off over time. Your child learns what to expect from you and practices resolution skills. Using encouraging words during calm moments reinforces that you're their safe haven, not their adversary.",
+      "After a tantrum passes, connect before you correct. A simple 'That was really hard' validates their experience without judgment. Then, when they're calm, you can briefly talk about what happened and practice better ways to handle big feelings next time."
+    ],
+    "source_articles": [
+      {"url": "https://www.healthline.com/health/childrens-health/3-year-old-tantrums", "title": "3-Year-Old Tantrums: Why They Happen and What You Can Do"},
+      {"url": "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/tantrum/art-20047845", "title": "Temper tantrums in toddlers - Mayo Clinic"},
+      {"url": "https://www.zerotothree.org/resource/toddler-tantrums/", "title": "Toddler Tantrums - Zero to Three"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "b5cd7666d510b1045d6c15e1",
+    "topic_id": "sleep",
+    "title": "Sleep Routines",
+    "subtitle": "Create peaceful bedtimes with proven routines that help your child wind down and get the restorative sleep they need.",
+    "color_theme": "calm",
+    "age_groups": ["toddler", "preschool", "school_age"],
+    "tips": [
+      "Bedtime routines are vital for your child's sleep quality and quantity. A consistent sequence of calming activities—bath, pajamas, story, song—signals the brain that sleep is coming. This predictability reduces bedtime struggles and helps children feel secure.",
+      "Start your wind-down routine 30-45 minutes before desired sleep time. Dim the lights, lower your voice, and avoid stimulating activities. This gradual transition helps your child's body produce melatonin naturally, making the shift to sleep much smoother.",
+      "Both parents following the same bedtime routine matters more than you might think. Research shows that consistency across caregivers leads to better sleep outcomes. Even if schedules differ, keeping the core routine elements the same provides stability.",
+      "If your child fears the dark, a dim red or orange nightlight can help without disrupting sleep hormones. Keep noise levels low in the rest of the house after tucking them in—young children are particularly sensitive to sounds that can keep them awake.",
+      "Establish age-appropriate bedtimes and stick to them, even on weekends. A consistent sleep schedule regulates your child's internal clock, making falling asleep easier. Irregular bedtimes are linked to more behavior problems and poorer academic performance."
+    ],
+    "source_articles": [
+      {"url": "https://www.sleepfoundation.org/children-and-sleep/bedtime-routine", "title": "Perfecting Your Child's Bedtime Routine"},
+      {"url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/healthy-sleep-habits-how-many-hours-does-your-child-need.aspx", "title": "Healthy Sleep Habits - HealthyChildren.org"},
+      {"url": "https://www.seattlechildrens.org/health-safety/nutrition-wellness/good-night-sleep-routine/", "title": "A Good Night's Sleep Can Be Routine"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "ac5b1792ab93de8fb0e585d2",
+    "topic_id": "eating_habits",
+    "title": "Healthy Eating",
+    "subtitle": "Build positive relationships with food through patience, variety, and pressure-free mealtimes that work for the whole family.",
+    "color_theme": "fresh",
+    "age_groups": ["toddler", "preschool", "school_age"],
+    "tips": [
+      "Raising healthy eaters starts with offering variety without pressure. Children may need 8-15 exposures to a new food before they'll try it. Keep offering—without forcing—and trust that their curiosity will eventually win. Your patience now builds their adventurous eating later.",
+      "Use the 'division of responsibility': Parents decide what, when, and where food is served; children decide whether and how much to eat. This approach reduces mealtime battles and is linked to healthier eating habits, better self-regulation, and less picky eating.",
+      "Restricting 'fun foods' like sweets often backfires—research shows children eat more of those foods when they finally get access. Instead, offer treats occasionally alongside nutritious options. This teaches balance and prevents forbidden-food obsessions.",
+      "Family meals matter more than perfect nutrition. Children who eat with their family regularly experience more food enjoyment, try more foods, and develop healthier eating patterns. Even a few shared meals per week makes a significant difference.",
+      "Model the eating behaviors you want to see. Children learn by watching, not by being told. When you enjoy vegetables, try new foods, and eat mindfully, your child notices. Your relationship with food becomes their template for their own."
+    ],
+    "source_articles": [
+      {"url": "https://www.healthline.com/nutrition/healthy-eating-for-kids", "title": "Healthy Eating for Kids"},
+      {"url": "https://www.healthychildren.org/English/ages-stages/toddler/nutrition/Pages/Picky-Eaters.aspx", "title": "10 Tips for Parents of Picky Eaters"},
+      {"url": "https://pallaviqslimfitness.com/blog/how-to-build-healthy-eating-habits-in-kids-indian-nutritionist-tips/", "title": "Healthy Eating Habits in Kids - Indian Tips"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "d8f5a3b2c1e4f6789012345a",
+    "topic_id": "screen_time",
+    "title": "Screen Time Balance",
+    "subtitle": "Navigate the digital world with healthy boundaries that protect your child while embracing technology's benefits.",
+    "color_theme": "cool",
+    "age_groups": ["toddler", "preschool", "school_age"],
+    "tips": [
+      "Quality matters more than quantity when it comes to screen time. Educational, interactive content that encourages thinking and creativity is very different from passive watching. Co-viewing with your child—asking questions, making connections—transforms screen time into learning time.",
+      "Set clear, consistent screen time limits and communicate them in advance. Use visual timers so children can see time passing, which reduces end-of-screen-time meltdowns. Predictable boundaries help children feel secure rather than constantly negotiating.",
+      "Create tech-free zones and times: no screens at the dinner table, in bedrooms, or during the hour before bed. Blue light from screens disrupts melatonin production and sleep quality. These boundaries protect both sleep and family connection time.",
+      "Model the screen habits you want your child to develop. If you're constantly on your phone, they notice. Designate phone-free family time where everyone—including adults—puts devices away. Your behavior is their most powerful teacher.",
+      "Use screen time as a bridge, not a replacement, for real-world experiences. Watch a nature documentary, then go for a hike. Play a cooking game, then bake together. This approach teaches children that screens can inspire and enhance life, not substitute for it."
+    ],
+    "source_articles": [
+      {"url": "https://www.healthline.com/health/parenting/screen-time-for-kids", "title": "Screen Time for Kids: Guidelines and Tips"},
+      {"url": "https://www.commonsensemedia.org", "title": "Common Sense Media"},
+      {"url": "https://www.aap.org/en/patient-care/media-and-children/", "title": "Media and Children - AAP"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "e9f6b4c3d2a5e7890123456b",
+    "topic_id": "behavior",
+    "title": "Positive Behavior",
+    "subtitle": "Guide your child's behavior with connection-first strategies that teach rather than punish, building cooperation naturally.",
+    "color_theme": "purple",
+    "age_groups": ["toddler", "preschool", "school_age"],
+    "tips": [
+      "All behavior is communication. When your child acts out, they're telling you something—maybe they're tired, hungry, overwhelmed, or seeking connection. Looking beneath the behavior to understand the underlying need transforms discipline from punishment into problem-solving.",
+      "Connect before you correct. A child who feels understood and connected is far more likely to cooperate. Before addressing misbehavior, get on their level, make eye contact, and show you understand their feelings. This connection opens their ears to your guidance.",
+      "Focus on teaching, not punishing. Punishment may stop behavior in the moment but doesn't teach what to do instead. Natural consequences and problem-solving together help children develop internal motivation and better decision-making skills.",
+      "Catch them being good—often. Children crave attention, and they'll seek it through any means necessary. When you praise specific positive behaviors enthusiastically, you make good behavior the most effective way to get your attention and approval.",
+      "Stay calm when they lose control—your regulation models theirs. Children learn emotional regulation by watching their parents handle stress. When you respond to their chaos with calm, you become the stable anchor that helps them find their own calm."
+    ],
+    "source_articles": [
+      {"url": "https://kidsusamontessori.org/what-are-the-most-effective-behavior-management-strategies-in-early-childhood/", "title": "Behavior Management Strategies - Montessori"},
+      {"url": "https://www.cdc.gov/child-development/positive-parenting-tips/preschooler-3-5-years.html", "title": "Positive Parenting Tips - CDC"},
+      {"url": "https://www.positivediscipline.com", "title": "Positive Discipline"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "f0a7c5d4e3b6f8901234567c",
+    "topic_id": "separation_anxiety",
+    "title": "Separation Anxiety",
+    "subtitle": "Help your child feel secure during goodbyes with consistent rituals and reassurance that builds lasting confidence.",
+    "color_theme": "warm",
+    "age_groups": ["toddler", "preschool"],
+    "tips": [
+      "Separation anxiety is a normal developmental stage that shows your child has formed a healthy attachment to you. While it's hard to see them upset, this fear actually means your bond is strong. With patience and consistency, they'll learn that goodbyes don't mean forever.",
+      "Keep goodbyes brief, warm, and confident. Long, drawn-out farewells increase anxiety rather than soothe it. A quick hug, a cheerful 'I love you, see you later!' and a calm departure show your child that separations are normal and manageable.",
+      "Never sneak away to avoid tears—this erodes trust and makes future separations harder. Even if your child cries, seeing you leave helps them understand the pattern: you leave, and you always come back. This predictability builds security over time.",
+      "Create a special goodbye ritual together—a secret handshake, three kisses, a phrase you both say. These rituals give children something predictable to hold onto and provide comfort. They also give children a sense of control during an otherwise uncertain moment.",
+      "Practice separations gradually. Start with short times apart in safe settings, then slowly increase duration. Each successful reunion—'See, I came back!'—builds their confidence that separations are temporary and that you'll always return."
+    ],
+    "source_articles": [
+      {"url": "https://www.anxietycanada.com/anxiety-disorder/separation-anxiety/", "title": "Separation Anxiety - Anxiety Canada"},
+      {"url": "https://www.stanfordchildrens.org/en/topic/default?id=separation-anxiety-disorder-in-children-90-P02582", "title": "Separation Anxiety - Stanford Children's"},
+      {"url": "https://www.anxietycanada.com/learn-about-anxiety/anxiety-in-children/", "title": "Anxiety in Children"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "a1b8d6e5f4c7a9012345678d",
+    "topic_id": "social_skills",
+    "title": "Social Skills",
+    "subtitle": "Support your child in building meaningful friendships through practice, guidance, and age-appropriate social opportunities.",
+    "color_theme": "bright",
+    "age_groups": ["preschool", "school_age"],
+    "tips": [
+      "Social skills are learned, not innate. Children need practice, just like learning to read or ride a bike. Arrange playdates, encourage group activities, and provide gentle coaching. Each interaction—even awkward ones—builds their social toolkit.",
+      "Teach specific social skills explicitly. Children often don't know how to join a game, share toys, or resolve conflicts. Role-play scenarios at home: 'What could you say if you want to play too?' Practice makes these skills automatic when real situations arise.",
+      "Help children read social cues by narrating what you observe: 'Look, she's smiling—I think she liked when you shared.' 'He walked away—maybe he needs space right now.' This builds emotional intelligence and helps them understand unspoken social rules.",
+      "Pretend play is powerful social practice. When children play house, school, or imaginary adventures, they're rehearsing social roles, practicing perspective-taking, and learning cooperation. Encourage imaginative play and occasionally join in to model social skills.",
+      "Celebrate social effort, not just success. 'You asked if you could play—that was brave!' encourages children to keep trying even when things don't go perfectly. Building friendship skills takes time, and every attempt matters."
+    ],
+    "source_articles": [
+      {"url": "https://sunshine-parenting.com/10-friendship-skills-every-kid-needs/", "title": "10 Friendship Skills Every Kid Needs"},
+      {"url": "https://healthmatters.nyp.org/how-parents-can-help-their-kids-make-strong-friendships/", "title": "Help Your Kids Make Strong Friendships"},
+      {"url": "https://childmind.org/blog/how-pretend-play-helps-children-build-skills/", "title": "How Pretend Play Helps Children"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "b2c9e7f6a5d8b0123456789e",
+    "topic_id": "confidence",
+    "title": "Building Confidence",
+    "subtitle": "Nurture your child's self-esteem through encouragement, appropriate challenges, and celebrating their unique strengths.",
+    "color_theme": "golden",
+    "age_groups": ["toddler", "preschool", "school_age"],
+    "tips": [
+      "Confidence grows from competence. When children master age-appropriate challenges—tying shoes, solving puzzles, helping with chores—they develop genuine self-belief. Resist the urge to do things for them; instead, support their struggle and celebrate their accomplishments.",
+      "Praise effort and strategy, not just results. 'You worked so hard on that!' builds resilience, while 'You're so smart!' can make children afraid to try hard things. Children who believe effort leads to improvement become more willing to take on challenges.",
+      "Let children experience manageable failures in safe settings. Failure is how humans learn, and protecting children from all disappointment prevents them from developing coping skills. Your role is to be their soft landing—there to comfort, not to prevent every fall.",
+      "Highly sensitive children feel everything intensely—joy, sadness, frustration, excitement. Rather than trying to toughen them up, help them see sensitivity as a strength. Empathy, creativity, and deep connection are gifts that come with this temperament.",
+      "Help children identify and celebrate their unique strengths. Every child has something they do well—building, drawing, caring for animals, making people laugh. Naming these strengths helps children build an identity around what they can do, not just what they struggle with."
+    ],
+    "source_articles": [
+      {"url": "https://www.parents.com/kids/development/behavioral/emotionally-sensitive-children/", "title": "Emotionally Sensitive Children"},
+      {"url": "https://www.parents.com/emotional-regulation-skills-8692759", "title": "Emotional Regulation Skills for Kids"},
+      {"url": "https://www.childmind.org", "title": "Child Mind Institute"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "c3d0f8a7b6e9c1234567890f",
+    "topic_id": "emotional_regulation",
+    "title": "Emotional Regulation",
+    "subtitle": "Teach your child to understand and manage their feelings with tools that last a lifetime.",
+    "color_theme": "calm",
+    "age_groups": ["toddler", "preschool", "school_age"],
+    "tips": [
+      "Emotional regulation develops gradually through the prefrontal cortex—and that brain region isn't fully mature until the mid-20s. Expecting young children to regulate emotions perfectly is unrealistic. Your calm co-regulation teaches their brain how to eventually self-regulate.",
+      "Name emotions to tame them. When you say, 'You're feeling really frustrated right now,' you help your child's brain shift from the emotional center to the thinking center. This simple act of labeling calms the nervous system and builds emotional vocabulary.",
+      "Teach calming strategies during calm moments, not meltdowns. Practice deep belly breaths, squeezing a stress ball, or counting to ten when your child is relaxed. Then, during emotional moments, you can prompt: 'Remember our belly breaths? Let's try that.'",
+      "Validate feelings, even when behavior needs to change. 'You're so angry right now—it's hard when things don't go your way. But hitting isn't okay.' This approach acknowledges their experience while maintaining boundaries. Feelings are always acceptable; not all behaviors are.",
+      "Model emotional regulation yourself. When you're frustrated, narrate: 'I'm feeling really annoyed right now. I'm going to take some deep breaths.' Children learn more from watching you handle your emotions than from any lesson you could teach."
+    ],
+    "source_articles": [
+      {"url": "https://www.parents.com/emotional-regulation-skills-8692759", "title": "Emotional Regulation Skills for Kids"},
+      {"url": "https://www.parents.com/kids/development/behavioral/emotionally-sensitive-children/", "title": "Emotionally Sensitive Children"},
+      {"url": "https://www.zerotothree.org/resource/toddler-tantrums/", "title": "Toddler Tantrums - Zero to Three"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  },
+  {
+    "id": "d4e1a9b8c7f0d2345678901a",
+    "topic_id": "potty_training",
+    "title": "Potty Training",
+    "subtitle": "Navigate this milestone with patience and positivity, following your child's readiness cues for success.",
+    "color_theme": "fresh",
+    "age_groups": ["toddler", "preschool"],
+    "tips": [
+      "Every child is ready at their own pace—there's no magic age for potty training. Look for signs of readiness: staying dry for 2+ hours, showing interest in the bathroom, discomfort with dirty diapers, and ability to follow simple instructions. Pushing before readiness backfires.",
+      "Create a toilet training plan that fits your child's personality and your family's routine. Some children respond to regular scheduled sits, others to following their body's cues. Flexibility and patience matter more than any specific method.",
+      "Celebrate successes enthusiastically without shaming accidents. Accidents are part of learning—stay calm, clean up matter-of-factly, and reassure your child. Shame and punishment create anxiety that can prolong the process or cause regression.",
+      "Make bathroom time calm and pressure-free. Avoid asking 'Do you need to go?' constantly—this creates power struggles. Instead, build potty sits into the routine (after waking, after meals) and keep it low-key. Relaxation helps bodies release.",
+      "Regression during stress—new sibling, starting school, illness—is completely normal. Rather than expressing disappointment, increase support and return to basics. Once the stressful period passes, progress usually resumes quickly."
+    ],
+    "source_articles": [
+      {"url": "https://www.healthychildren.org/english/ages-stages/toddler/toilet-training/pages/creating-a-toilet-training-plan.aspx", "title": "Creating a Toilet Training Plan"},
+      {"url": "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/the-right-age-to-toilet-train.aspx", "title": "The Right Age to Toilet Train"},
+      {"url": "https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/Praise-and-Reward-Your-Childs-Success.aspx", "title": "Praise and Reward Your Child's Success"}
+    ],
+    "generated_at": "2026-01-26T17:50:00.000000",
+    "tip_count": 5
+  }
+]
