@@ -1,0 +1,54 @@
+{
+  "scraped_at": "2026-01-26T16:04:58.964633",
+  "total_articles": 64,
+  "categories": {
+    "sleep": {
+      "title": "Sleep & Bedtime",
+      "emoji": "\ud83c\udf19",
+      "count": 8,
+      "urls_attempted": 9
+    },
+    "tantrums": {
+      "title": "Tantrums & Behavior",
+      "emoji": "\ud83c\udf2a\ufe0f",
+      "count": 4,
+      "urls_attempted": 14
+    },
+    "screen_time": {
+      "title": "Screen Time",
+      "emoji": "\ud83d\udcf1",
+      "count": 3,
+      "urls_attempted": 6
+    },
+    "eating": {
+      "title": "Healthy Eating",
+      "emoji": "\ud83e\udd57",
+      "count": 7,
+      "urls_attempted": 10
+    },
+    "potty_training": {
+      "title": "Potty Training",
+      "emoji": "\ud83d\udebd",
+      "count": 10,
+      "urls_attempted": 12
+    },
+    "social_skills": {
+      "title": "Social Skills & Friendships",
+      "emoji": "\ud83d\udc65",
+      "count": 10,
+      "urls_attempted": 12
+    },
+    "separation_anxiety": {
+      "title": "Separation Anxiety",
+      "emoji": "\ud83e\udd17",
+      "count": 11,
+      "urls_attempted": 14
+    },
+    "behavior_management": {
+      "title": "Behavior Management",
+      "emoji": "\u2b50",
+      "count": 11,
+      "urls_attempted": 15
+    }
+  }
+}

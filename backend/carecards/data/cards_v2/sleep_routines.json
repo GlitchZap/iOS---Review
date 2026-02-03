@@ -1,0 +1,287 @@
+[
+  {
+    "id": "d934529d-30d0-4e84-babf-527299a837c9",
+    "topic_id": "sleep_routines",
+    "title": "Consistent Bedtime Routine",
+    "subtitle": "Same steps, every night",
+    "tips": [
+      "Bath \u2192 PJs \u2192 Brush teeth \u2192 Stories \u2192 Bed",
+      "Keep the routine 20-30 minutes",
+      "Same order helps their brain wind down",
+      "Start at the same time each night",
+      "Weekend bedtimes within 30 min of weekday"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 1,
+    "generated_at": "2026-01-26T15:35:17.411755",
+    "generation_method": "template"
+  },
+  {
+    "id": "fb5bd7db-5e9b-4405-b65f-d8948fa2409b",
+    "topic_id": "sleep_routines",
+    "title": "Create a Sleep Sanctuary",
+    "subtitle": "Make the bedroom invitation to sleep",
+    "tips": [
+      "Keep the room cool (65-70\u00b0F)",
+      "Use blackout curtains",
+      "Try a white noise machine",
+      "Remove screens and stimulating toys",
+      "Make the bed cozy and inviting"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 2,
+    "generated_at": "2026-01-26T15:35:17.411762",
+    "generation_method": "template"
+  },
+  {
+    "id": "74d15dc9-497b-488e-bf0c-d19ac3feaf02",
+    "topic_id": "sleep_routines",
+    "title": "Wind Down Hour",
+    "subtitle": "Calm activities before bed",
+    "tips": [
+      "No screens 1 hour before bed",
+      "Dim the lights in the house",
+      "Read books or tell quiet stories",
+      "Gentle stretching or yoga",
+      "Avoid sugar and heavy foods"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 3,
+    "generated_at": "2026-01-26T15:35:17.411767",
+    "generation_method": "template"
+  },
+  {
+    "id": "efa08cdc-07bb-4517-8545-23819adf0067",
+    "topic_id": "sleep_routines",
+    "title": "Toddler Sleep Tips",
+    "subtitle": "Ages 2-4 sleep challenges",
+    "tips": [
+      "Handle the transition from crib carefully",
+      "Use a toddler clock for 'okay to wake'",
+      "Keep one comfort object allowed",
+      "Be boring when they get up",
+      "Praise staying in bed"
+    ],
+    "age_groups": [
+      "2-4"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 4,
+    "generated_at": "2026-01-26T15:35:17.411772",
+    "generation_method": "template"
+  },
+  {
+    "id": "76a7021b-aa7d-4f68-ab87-8e05dd0401c1",
+    "topic_id": "sleep_routines",
+    "title": "Bedtime Battles",
+    "subtitle": "When they resist sleep",
+    "tips": [
+      "Give choices: 'Blue PJs or green?'",
+      "Use a visual bedtime chart",
+      "Set a timer for each step",
+      "Stay calm and consistent",
+      "Reward good nights, not perfect nights"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 5,
+    "generated_at": "2026-01-26T15:35:17.411777",
+    "generation_method": "template"
+  },
+  {
+    "id": "c09c79cc-1e9c-47dc-b708-5c521ec0878e",
+    "topic_id": "sleep_routines",
+    "title": "Night Waking Solutions",
+    "subtitle": "When they wake in the night",
+    "tips": [
+      "Keep interactions brief and boring",
+      "Don't turn on bright lights",
+      "Comfort quickly, then leave",
+      "Check for genuine needs first",
+      "Be consistent with your response"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 6,
+    "generated_at": "2026-01-26T15:35:17.411781",
+    "generation_method": "template"
+  },
+  {
+    "id": "c1c1af40-f82d-409b-9da8-9ad411c57078",
+    "topic_id": "sleep_routines",
+    "title": "Early Risers",
+    "subtitle": "When 5am feels like morning",
+    "tips": [
+      "Use a color-changing toddler clock",
+      "Keep the room dark in morning",
+      "Put out quiet activities",
+      "Gradually shift bedtime later",
+      "Don't start the day until 'wake time'"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.411786",
+    "generation_method": "template"
+  },
+  {
+    "id": "3e938087-23f6-4d0b-9d70-475cd954d6fb",
+    "topic_id": "sleep_routines",
+    "title": "Monster Fears & Nightmares",
+    "subtitle": "Calming bedtime anxieties",
+    "tips": [
+      "Take their fears seriously",
+      "Create 'monster spray' (water + lavender)",
+      "Read books about brave characters",
+      "Check the room together",
+      "Leave a dim nightlight on"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.411790",
+    "generation_method": "template"
+  },
+  {
+    "id": "fb503b39-214f-47fc-8b21-1017d83255c8",
+    "topic_id": "sleep_routines",
+    "title": "School-Age Sleep",
+    "subtitle": "Sleep needs for 6-10 year olds",
+    "tips": [
+      "They still need 9-12 hours",
+      "Keep electronics charging outside bedroom",
+      "Maintain bedtime routine even as they grow",
+      "Allow some reading time in bed",
+      "Watch for homework eating into sleep"
+    ],
+    "age_groups": [
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.411795",
+    "generation_method": "template"
+  },
+  {
+    "id": "7e6ca2c1-3b09-45a8-9c31-4e84021160b3",
+    "topic_id": "sleep_routines",
+    "title": "Nap Transitions",
+    "subtitle": "When naps change or end",
+    "tips": [
+      "Watch for signs they're ready",
+      "Try quiet time instead of nap",
+      "Move bedtime earlier temporarily",
+      "Be prepared for cranky afternoons",
+      "Most kids drop naps by age 5"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.411799",
+    "generation_method": "template"
+  },
+  {
+    "id": "d7e2dd60-3a5f-4d61-9671-9d247da1bd38",
+    "topic_id": "sleep_routines",
+    "title": "Travel & Time Changes",
+    "subtitle": "Keeping sleep on track away from home",
+    "tips": [
+      "Bring familiar items: blanket, pillow",
+      "Stick to routine as much as possible",
+      "Adjust time zones gradually",
+      "Expect some regression",
+      "Get back on track quickly at home"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 11,
+    "generated_at": "2026-01-26T15:35:17.411804",
+    "generation_method": "template"
+  },
+  {
+    "id": "8f1dd124-da1a-434e-98b0-9386c277c38c",
+    "topic_id": "sleep_routines",
+    "title": "Sleep Regression Survival",
+    "subtitle": "When good sleepers stop sleeping",
+    "tips": [
+      "Stay consistent with routines",
+      "Don't create new habits you'll regret",
+      "Check for underlying issues",
+      "This too shall pass",
+      "Ask for help if you're exhausted"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83c\udf19",
+    "color_theme": "peaceful_purple",
+    "source_articles": [],
+    "variation": 12,
+    "generated_at": "2026-01-26T15:35:17.411808",
+    "generation_method": "template"
+  }
+]

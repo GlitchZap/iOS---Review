@@ -1,0 +1,247 @@
+[
+  {
+    "id": "a4a047df-4fbb-43c5-8ab9-192b0561befd",
+    "topic_id": "mixed_emotional_development",
+    "title": "Naming Emotions",
+    "subtitle": "Build their feelings vocabulary",
+    "tips": [
+      "Use emotion words often",
+      "Read books about feelings",
+      "Name your own emotions out loud",
+      "Use feeling charts and faces",
+      "Ask 'How did that make you feel?'"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 1,
+    "generated_at": "2026-01-26T15:35:17.418965",
+    "generation_method": "template"
+  },
+  {
+    "id": "ecb3e184-7ee6-4988-8f73-44384259aab8",
+    "topic_id": "mixed_emotional_development",
+    "title": "Validating All Feelings",
+    "subtitle": "No emotion is 'bad'",
+    "tips": [
+      "Say 'All feelings are okay'",
+      "Don't say 'Don't be sad/mad'",
+      "Acknowledge before solving",
+      "Let them feel disappointed",
+      "Feelings pass when allowed"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 2,
+    "generated_at": "2026-01-26T15:35:17.418972",
+    "generation_method": "template"
+  },
+  {
+    "id": "94e7dfee-fa4d-44d0-b9b1-4726cd659b75",
+    "topic_id": "mixed_emotional_development",
+    "title": "Calming Strategies",
+    "subtitle": "Tools for emotional regulation",
+    "tips": [
+      "Deep belly breaths together",
+      "Count to 10 slowly",
+      "Squeeze and release muscles",
+      "Use a calm-down kit",
+      "Practice when calm"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 3,
+    "generated_at": "2026-01-26T15:35:17.418978",
+    "generation_method": "template"
+  },
+  {
+    "id": "4311da6a-f250-415e-b4bc-e33f10878fd7",
+    "topic_id": "mixed_emotional_development",
+    "title": "Handling Frustration",
+    "subtitle": "When things don't go their way",
+    "tips": [
+      "Empathize first: 'That's frustrating'",
+      "Model patience yourself",
+      "Break tasks into smaller steps",
+      "Teach self-talk: 'I can try again'",
+      "Celebrate effort over outcome"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 4,
+    "generated_at": "2026-01-26T15:35:17.418983",
+    "generation_method": "template"
+  },
+  {
+    "id": "4e8a0262-49dc-45b9-808c-b67f387a54eb",
+    "topic_id": "mixed_emotional_development",
+    "title": "Building Empathy",
+    "subtitle": "Understanding others' feelings",
+    "tips": [
+      "Ask 'How do you think they feel?'",
+      "Point out emotions in others",
+      "Discuss characters in books/shows",
+      "Model caring for others",
+      "Volunteer together"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 5,
+    "generated_at": "2026-01-26T15:35:17.418989",
+    "generation_method": "template"
+  },
+  {
+    "id": "ca4ae87b-c80a-4b9b-b0ac-ca0be3d3f807",
+    "topic_id": "mixed_emotional_development",
+    "title": "Worry & Anxiety Support",
+    "subtitle": "When worry takes over",
+    "tips": [
+      "Take worries seriously",
+      "Teach 'worry time' - dedicated time",
+      "Challenge anxious thoughts gently",
+      "Create a worry box or journal",
+      "Seek help if it impacts daily life"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 6,
+    "generated_at": "2026-01-26T15:35:17.418993",
+    "generation_method": "template"
+  },
+  {
+    "id": "53b11695-09fd-4e57-98ab-bed9217443de",
+    "topic_id": "mixed_emotional_development",
+    "title": "Emotional Safety at Home",
+    "subtitle": "Create a feelings-friendly space",
+    "tips": [
+      "Listen without judgment",
+      "Don't mock their emotions",
+      "Keep reactions calm",
+      "Show unconditional love",
+      "Make sharing feelings safe"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.418997",
+    "generation_method": "template"
+  },
+  {
+    "id": "8f1eb5b7-eb97-417b-8f93-a27c8be88b05",
+    "topic_id": "mixed_emotional_development",
+    "title": "Age-Appropriate Emotions",
+    "subtitle": "What's normal for their stage",
+    "tips": [
+      "Toddlers have intense, quick emotions",
+      "Preschoolers fear monsters and dark",
+      "School-age kids worry about friends",
+      "Tweens may hide feelings",
+      "Adjust your approach for their age"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.419002",
+    "generation_method": "template"
+  },
+  {
+    "id": "a0c01e82-3860-4eef-8a1e-8edfc76aad50",
+    "topic_id": "mixed_emotional_development",
+    "title": "Mindfulness for Kids",
+    "subtitle": "Present-moment awareness",
+    "tips": [
+      "Do body scans together",
+      "Practice noticing 5 senses",
+      "Use kids' meditation apps",
+      "Make it playful and short",
+      "Build it into daily routine"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.419007",
+    "generation_method": "template"
+  },
+  {
+    "id": "ef9c0dfc-e177-468c-9924-eec915150005",
+    "topic_id": "mixed_emotional_development",
+    "title": "When to Get Help",
+    "subtitle": "Recognizing when more support is needed",
+    "tips": [
+      "Persistent sadness or anxiety",
+      "Behavior changes significantly",
+      "Sleep or appetite problems",
+      "Talk of self-harm",
+      "Trust your instincts\u2014get help"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2764\ufe0f",
+    "color_theme": "heart_red",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.419011",
+    "generation_method": "template"
+  }
+]

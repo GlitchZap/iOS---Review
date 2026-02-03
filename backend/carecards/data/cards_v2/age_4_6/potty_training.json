@@ -1,0 +1,117 @@
+[
+  {
+    "id": "8a0c83fa-2734-422c-936b-433972bc3e1a",
+    "topic_id": "potty_training",
+    "title": "Handle Accidents Well",
+    "subtitle": "They're part of learning",
+    "tips": [
+      "Stay calm and neutral",
+      "Clean up matter-of-factly",
+      "Say 'Accidents happen, let's try again'",
+      "Never shame or punish",
+      "Keep spare clothes everywhere"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 5,
+    "generated_at": "2026-01-26T15:35:17.415129",
+    "generation_method": "template"
+  },
+  {
+    "id": "70b55bb7-9975-498e-a14e-092bbfdb75af",
+    "topic_id": "potty_training",
+    "title": "Nighttime Training",
+    "subtitle": "A separate milestone",
+    "tips": [
+      "Nighttime dryness comes later",
+      "Use waterproof mattress protector",
+      "Limit fluids before bed",
+      "Wake them to pee before you sleep",
+      "Some kids aren't ready until 5-7"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.415138",
+    "generation_method": "template"
+  },
+  {
+    "id": "45a0988b-9bf7-4c05-a409-dcdd53b9e1fb",
+    "topic_id": "potty_training",
+    "title": "Public Restroom Bravery",
+    "subtitle": "Handling bathrooms out and about",
+    "tips": [
+      "Bring potty seat adapter in diaper bag",
+      "Carry disposable seat covers",
+      "Warn about loud flush sounds",
+      "Let them cover ears for auto-flush",
+      "Practice at quiet public restrooms"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.415144",
+    "generation_method": "template"
+  },
+  {
+    "id": "7d80cfc2-6027-4cdd-895d-5a341c0d7593",
+    "topic_id": "potty_training",
+    "title": "Regression Solutions",
+    "subtitle": "When trained kids have setbacks",
+    "tips": [
+      "Look for stressors (new sibling, school)",
+      "Rule out medical issues (UTI)",
+      "Go back to basics without shame",
+      "Increase potty reminders",
+      "Stay patient\u2014it usually passes"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.415149",
+    "generation_method": "template"
+  },
+  {
+    "id": "71a0cc77-be63-4608-aead-83b465a88208",
+    "topic_id": "potty_training",
+    "title": "Wiping & Hygiene",
+    "subtitle": "Teaching clean-up skills",
+    "tips": [
+      "Girls wipe front to back",
+      "Teach proper amount of toilet paper",
+      "Check their work for a while",
+      "Hand washing is non-negotiable",
+      "Full independence by kindergarten"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.415154",
+    "generation_method": "template"
+  }
+]

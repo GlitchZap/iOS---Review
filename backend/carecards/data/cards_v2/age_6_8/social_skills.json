@@ -1,0 +1,169 @@
+[
+  {
+    "id": "151170c5-49e8-4245-99fe-94a92327db7c",
+    "topic_id": "social_skills",
+    "title": "Making Friends",
+    "subtitle": "Helping them connect",
+    "tips": [
+      "Teach simple openers: 'Can I play?'",
+      "Role play social situations at home",
+      "Find activities based on interests",
+      "Arrange one-on-one time with peers",
+      "Quality over quantity of friends"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83d\udc65",
+    "color_theme": "friendly_orange",
+    "source_articles": [],
+    "variation": 3,
+    "generated_at": "2026-01-26T15:35:17.415890",
+    "generation_method": "template"
+  },
+  {
+    "id": "38b4add8-d828-49cf-8c79-174ae5240a7b",
+    "topic_id": "social_skills",
+    "title": "Handling Conflicts",
+    "subtitle": "When friends disagree",
+    "tips": [
+      "Coach, don't solve for them",
+      "Teach 'I feel' statements",
+      "Help them see other perspectives",
+      "Role play solutions",
+      "Celebrate when they work it out"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udc65",
+    "color_theme": "friendly_orange",
+    "source_articles": [],
+    "variation": 4,
+    "generated_at": "2026-01-26T15:35:17.415895",
+    "generation_method": "template"
+  },
+  {
+    "id": "51c56984-eb35-435b-8714-f6559c9288c8",
+    "topic_id": "social_skills",
+    "title": "Being a Good Friend",
+    "subtitle": "Teaching friendship skills",
+    "tips": [
+      "Talk about what good friends do",
+      "Read books about friendship",
+      "Point out kind actions",
+      "Discuss how actions affect others",
+      "Model good friendships yourself"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udc65",
+    "color_theme": "friendly_orange",
+    "source_articles": [],
+    "variation": 6,
+    "generated_at": "2026-01-26T15:35:17.415905",
+    "generation_method": "template"
+  },
+  {
+    "id": "9ed4ac1d-032a-4719-9de8-155a8a7450c4",
+    "topic_id": "social_skills",
+    "title": "Shy & Introverted Kids",
+    "subtitle": "Support without pushing",
+    "tips": [
+      "Respect their temperament",
+      "Give them warm-up time in groups",
+      "Small groups work better",
+      "Don't label them 'shy' to others",
+      "Celebrate their social wins"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udc65",
+    "color_theme": "friendly_orange",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.415909",
+    "generation_method": "template"
+  },
+  {
+    "id": "258503a4-af03-4c15-b94f-9be2c6b60906",
+    "topic_id": "social_skills",
+    "title": "Dealing with Exclusion",
+    "subtitle": "When they're left out",
+    "tips": [
+      "Validate their feelings first",
+      "Problem-solve together",
+      "Help them find other friends",
+      "Talk to teachers if ongoing",
+      "Build confidence in other areas"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udc65",
+    "color_theme": "friendly_orange",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.415914",
+    "generation_method": "template"
+  },
+  {
+    "id": "24d236d7-19b2-48df-b55e-07f445a87751",
+    "topic_id": "social_skills",
+    "title": "Manners & Kindness",
+    "subtitle": "Social graces matter",
+    "tips": [
+      "Model please/thank you always",
+      "Practice greetings and eye contact",
+      "Teach about personal space",
+      "Role play polite behavior",
+      "Praise kind actions you observe"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83d\udc65",
+    "color_theme": "friendly_orange",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.415918",
+    "generation_method": "template"
+  },
+  {
+    "id": "2f61408d-3bab-4d66-a271-3c3502062db2",
+    "topic_id": "social_skills",
+    "title": "Navigating Group Dynamics",
+    "subtitle": "Older kids' social world",
+    "tips": [
+      "Stay curious about their social life",
+      "Don't dismiss their drama",
+      "Help them think through situations",
+      "Watch for signs of bullying",
+      "Keep communication open"
+    ],
+    "age_groups": [
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udc65",
+    "color_theme": "friendly_orange",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.415923",
+    "generation_method": "template"
+  }
+]

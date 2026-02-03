@@ -1,0 +1,83 @@
+[
+  {
+    "id": "d994cc6418080e51a509f050ee351cb3",
+    "topic_id": "screen_time",
+    "title": "Quality Over Quantity",
+    "subtitle": "Not all screen time is created equal",
+    "tips": [
+      "Interactive, educational content differs from passive consumption. A video call with grandma, an age-appropriate learning game, or a creative drawing app engages children differently than endless YouTube videos.",
+      "Co-view when possible—discuss what you're watching, ask questions, and connect screen content to real life. This transforms passive watching into active learning and strengthens your relationship.",
+      "Preview content before allowing it. Check age ratings, reviews from Common Sense Media, and watch a few minutes yourself. What seems benign can have surprisingly mature themes.",
+      "Help children understand that what they see online may not reflect reality. Talk about advertising, filters, and how videos are edited. Build media literacy from an early age.",
+      "Encourage content creation over consumption when appropriate. Making videos, building in Minecraft, or coding simple games involves more learning than passively watching others."
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "📱",
+    "color_theme": "sky_blue",
+    "source_articles": [
+      "https://www.healthline.com/health/parenting/screen-time-for-kids",
+      "https://www.commonsensemedia.org/screen-time"
+    ],
+    "generated_at": "2026-01-26T17:25:48.932325",
+    "generation_method": "ai"
+  },
+  {
+    "id": "e3c6d283b5acc9a7251401ef35fb27cd",
+    "topic_id": "screen_time",
+    "title": "Setting Healthy Limits",
+    "subtitle": "Clear boundaries prevent daily battles",
+    "tips": [
+      "Create consistent rules about when screens are allowed and for how long. Visual timers help children see time passing and prepare for transitions. 'When the timer goes off, we're done.'",
+      "Establish screen-free zones and times: bedrooms, the dinner table, and the hour before bed. These non-negotiable boundaries protect sleep, family connection, and physical activity.",
+      "Model healthy tech habits yourself. Children notice when you're scrolling instead of listening. Designate device-free family time when everyone—parents included—unplugs.",
+      "Offer engaging alternatives to screens. Boredom is often behind screen requests. Have a basket of activities ready: arts and crafts, building toys, outdoor equipment, books, or puzzles.",
+      "Don't use screens as the primary soothing or reward tool. If screen time becomes the go-to for every tantrum or bribe, it gains excessive power. Keep it as one option among many."
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "📱",
+    "color_theme": "sky_blue",
+    "source_articles": [
+      "https://www.healthline.com/health/parenting/screen-time-for-kids",
+      "https://www.commonsensemedia.org/screen-time"
+    ],
+    "generated_at": "2026-01-26T17:25:48.932384",
+    "generation_method": "ai"
+  },
+  {
+    "id": "ecb060957f7e38ea8a78027f2a961723",
+    "topic_id": "screen_time",
+    "title": "Screen-Free Sleep",
+    "subtitle": "Protect the golden hour before bed",
+    "tips": [
+      "Stop all screens at least 1 hour before bedtime. Blue light from devices suppresses melatonin production, making it harder to fall asleep and reducing sleep quality even after they do.",
+      "Keep all devices—phones, tablets, TVs—out of the bedroom. Even if they're not using them, the presence and potential for use disrupts sleep. Charge devices in a common area.",
+      "The stimulating content on screens keeps young brains alert and processing, the opposite of the calm wind-down state needed for sleep. Even 'calm' content is more stimulating than books or quiet play.",
+      "Replace evening screen time with calming activities: bath time, reading together, gentle play, talking about the day, or listening to soft music or audiobooks.",
+      "If your child struggles to sleep, the first thing to examine is their screen habits—both the timing and the content. A screen break often dramatically improves sleep within days."
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "📱",
+    "color_theme": "sky_blue",
+    "source_articles": [
+      "https://www.healthline.com/health/parenting/screen-time-for-kids",
+      "https://www.commonsensemedia.org/screen-time"
+    ],
+    "generated_at": "2026-01-26T17:25:48.932423",
+    "generation_method": "ai"
+  }
+]

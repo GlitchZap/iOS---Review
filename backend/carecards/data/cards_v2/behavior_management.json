@@ -1,0 +1,296 @@
+[
+  {
+    "id": "901aa672-cf47-457e-b62e-296b81ee57ab",
+    "topic_id": "behavior_management",
+    "title": "Positive Attention First",
+    "subtitle": "Catch them being good",
+    "tips": [
+      "Notice and praise good behavior",
+      "Aim for 5 positive to 1 correction",
+      "Be specific: 'I love how you shared'",
+      "Attention drives behavior",
+      "What you focus on grows"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 1,
+    "generated_at": "2026-01-26T15:35:17.417743",
+    "generation_method": "template"
+  },
+  {
+    "id": "b76522bc-35dd-4770-a9c0-2c751d1c9a1b",
+    "topic_id": "behavior_management",
+    "title": "Clear, Simple Rules",
+    "subtitle": "They can't follow what they don't know",
+    "tips": [
+      "Keep rules to 3-5 key ones",
+      "State positively: 'Walk inside'",
+      "Post rules where everyone sees",
+      "Review and practice regularly",
+      "Be consistent with enforcement"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 2,
+    "generated_at": "2026-01-26T15:35:17.417750",
+    "generation_method": "template"
+  },
+  {
+    "id": "dd0fdfed-09ac-40d3-916e-2a94c3cfb218",
+    "topic_id": "behavior_management",
+    "title": "Natural Consequences",
+    "subtitle": "Let reality teach the lesson",
+    "tips": [
+      "Don't bring forgotten homework",
+      "Let them feel cold without coat",
+      "Broken toys stay broken",
+      "Make sure it's safe first",
+      "Empathize without rescuing"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 3,
+    "generated_at": "2026-01-26T15:35:17.417760",
+    "generation_method": "template"
+  },
+  {
+    "id": "1c58ed06-16f9-4eef-beab-048445853204",
+    "topic_id": "behavior_management",
+    "title": "Logical Consequences",
+    "subtitle": "Consequences that make sense",
+    "tips": [
+      "Related: misuse toy, lose toy",
+      "Reasonable: short time period",
+      "Respectful: not shaming",
+      "Given with empathy, not anger",
+      "Follow through every time"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 4,
+    "generated_at": "2026-01-26T15:35:17.417764",
+    "generation_method": "template"
+  },
+  {
+    "id": "ae1d48a4-0ffd-4178-8746-6db6e8d0faba",
+    "topic_id": "behavior_management",
+    "title": "Time-In vs Time-Out",
+    "subtitle": "Connection, not isolation",
+    "tips": [
+      "Sit together to calm down",
+      "Help them regulate with your calm",
+      "Talk after they're calm",
+      "Time-out works for some kids",
+      "Choose what works for your child"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 5,
+    "generated_at": "2026-01-26T15:35:17.417769",
+    "generation_method": "template"
+  },
+  {
+    "id": "bc769dcd-c652-45fe-b04a-0e412a4cf36c",
+    "topic_id": "behavior_management",
+    "title": "The Power of Choices",
+    "subtitle": "Give control within limits",
+    "tips": [
+      "Offer 2 acceptable choices",
+      "'Red shirt or blue shirt?'",
+      "Accept their choice gracefully",
+      "Avoid too many options",
+      "Builds cooperation and autonomy"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 6,
+    "generated_at": "2026-01-26T15:35:17.417774",
+    "generation_method": "template"
+  },
+  {
+    "id": "fe780028-d36c-4196-869e-58b2e074550f",
+    "topic_id": "behavior_management",
+    "title": "Effective Requests",
+    "subtitle": "How you ask matters",
+    "tips": [
+      "Get down to their eye level",
+      "Use their name first",
+      "Make it a statement, not question",
+      "Give one instruction at a time",
+      "Wait and expect compliance"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.417779",
+    "generation_method": "template"
+  },
+  {
+    "id": "9ba1fae2-81da-4de6-87f1-2c2584fba5e6",
+    "topic_id": "behavior_management",
+    "title": "When You Lose Your Cool",
+    "subtitle": "Repair and move forward",
+    "tips": [
+      "Everyone yells sometimes",
+      "Apologize sincerely",
+      "Explain what you should have done",
+      "Move on without guilt",
+      "Model making amends"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.417783",
+    "generation_method": "template"
+  },
+  {
+    "id": "839c6d81-fff5-4654-bb4b-1cd7fc4cce3c",
+    "topic_id": "behavior_management",
+    "title": "Sibling Conflicts",
+    "subtitle": "When they fight constantly",
+    "tips": [
+      "Don't always referee",
+      "Give them tools to solve it",
+      "Avoid comparing siblings",
+      "One-on-one time with each child",
+      "Sometimes separate is okay"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.417788",
+    "generation_method": "template"
+  },
+  {
+    "id": "51cf5d00-9f08-4664-927b-8145d40141f8",
+    "topic_id": "behavior_management",
+    "title": "Token Economy Systems",
+    "subtitle": "Earning rewards for good behavior",
+    "tips": [
+      "Clear behaviors earn tokens/points",
+      "Choose meaningful rewards together",
+      "Start simple and build up",
+      "Be consistent with giving tokens",
+      "Fade system as behaviors stick"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.417792",
+    "generation_method": "template"
+  },
+  {
+    "id": "841ea818-fb2c-48d6-975f-9c2ec14dd22c",
+    "topic_id": "behavior_management",
+    "title": "Defiance & Power Struggles",
+    "subtitle": "When they test every limit",
+    "tips": [
+      "Pick your battles wisely",
+      "Stay calm\u2014don't engage in battle",
+      "Give thinking time before consequences",
+      "Look for underlying needs",
+      "Connection often defuses defiance"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 11,
+    "generated_at": "2026-01-26T15:35:17.417797",
+    "generation_method": "template"
+  },
+  {
+    "id": "e1f408d9-367f-4357-91b5-9dc9f77d1ba8",
+    "topic_id": "behavior_management",
+    "title": "Consistency Is Key",
+    "subtitle": "Same rules, all caregivers",
+    "tips": [
+      "Get on same page with partner",
+      "Brief babysitters/grandparents",
+      "Follow through even when tired",
+      "Inconsistency increases testing",
+      "Exceptions create more testing"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\u2b50",
+    "color_theme": "wise_blue",
+    "source_articles": [],
+    "variation": 12,
+    "generated_at": "2026-01-26T15:35:17.417801",
+    "generation_method": "template"
+  }
+]

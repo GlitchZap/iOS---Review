@@ -1,0 +1,245 @@
+[
+  {
+    "id": "ab96d81d-3701-4a2b-8424-7c862cd128cb",
+    "topic_id": "screen_time",
+    "title": "Set Clear Screen Limits",
+    "subtitle": "Boundaries everyone understands",
+    "tips": [
+      "AAP recommends 1 hour/day for 2-5, 2 hours for 6+",
+      "Use visual timers they can see",
+      "Be consistent with rules",
+      "Include all screens in the count",
+      "Post the rules where everyone can see"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 1,
+    "generated_at": "2026-01-26T15:35:17.412919",
+    "generation_method": "template"
+  },
+  {
+    "id": "5712ec21-582e-4a92-94e3-373e79e0fafd",
+    "topic_id": "screen_time",
+    "title": "Co-View When Possible",
+    "subtitle": "Screen time together is better",
+    "tips": [
+      "Watch shows together and discuss",
+      "Play video games as a family",
+      "Ask questions about what they're watching",
+      "Connect content to real life",
+      "Your presence makes it educational"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 2,
+    "generated_at": "2026-01-26T15:35:17.412928",
+    "generation_method": "template"
+  },
+  {
+    "id": "08f2ea6f-f7e6-4a59-8023-d657538772de",
+    "topic_id": "screen_time",
+    "title": "Screen-Free Zones",
+    "subtitle": "Protected spaces without screens",
+    "tips": [
+      "No screens at the dinner table",
+      "Bedrooms are screen-free zones",
+      "Car rides can be screen-free time",
+      "Outdoor play is device-free",
+      "Create a charging station outside bedrooms"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 3,
+    "generated_at": "2026-01-26T15:35:17.412934",
+    "generation_method": "template"
+  },
+  {
+    "id": "357a8f57-aa75-4d10-af93-e295ce4e6e8a",
+    "topic_id": "screen_time",
+    "title": "Quality Over Quantity",
+    "subtitle": "Not all screen time is equal",
+    "tips": [
+      "Educational apps > passive videos",
+      "Creative apps (art, music) are better",
+      "Interactive > passive consumption",
+      "Video calls with family count differently",
+      "Preview content before allowing"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 4,
+    "generated_at": "2026-01-26T15:35:17.412939",
+    "generation_method": "template"
+  },
+  {
+    "id": "a5e8a761-4d3b-4be0-b25b-dfe790a3646a",
+    "topic_id": "screen_time",
+    "title": "Transition Warnings",
+    "subtitle": "End screen time without meltdowns",
+    "tips": [
+      "Give 10 min, 5 min, 2 min warnings",
+      "Let them finish the level/episode",
+      "Have an appealing next activity ready",
+      "Use visual or audio timers",
+      "Praise good transitions"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 5,
+    "generated_at": "2026-01-26T15:35:17.412946",
+    "generation_method": "template"
+  },
+  {
+    "id": "d60a086d-ccc2-487f-b9a3-a68976a601b7",
+    "topic_id": "screen_time",
+    "title": "Model Good Screen Habits",
+    "subtitle": "They're watching your phone use too",
+    "tips": [
+      "Put your phone away during family time",
+      "Have screen-free periods yourself",
+      "Don't scroll while talking to them",
+      "Show them you have other interests",
+      "Announce when you're done with your phone"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 6,
+    "generated_at": "2026-01-26T15:35:17.412951",
+    "generation_method": "template"
+  },
+  {
+    "id": "cdfbe7ab-0071-4d8f-a2c4-69f113f61e83",
+    "topic_id": "screen_time",
+    "title": "Alternative Activities",
+    "subtitle": "Fun things that aren't screens",
+    "tips": [
+      "Board games and puzzles",
+      "Outdoor play and nature walks",
+      "Arts and crafts projects",
+      "Reading together",
+      "Imaginative play and dress-up"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.412956",
+    "generation_method": "template"
+  },
+  {
+    "id": "0a596d68-ebb8-4080-9761-19fe49c1f0d0",
+    "topic_id": "screen_time",
+    "title": "Online Safety Basics",
+    "subtitle": "Keeping older kids safe online",
+    "tips": [
+      "Keep devices in common areas",
+      "Know their passwords",
+      "Check in on what they're watching",
+      "Have open conversations about content",
+      "Use parental controls appropriately"
+    ],
+    "age_groups": [
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.412961",
+    "generation_method": "template"
+  },
+  {
+    "id": "069a6ab4-612f-4b69-88ee-5b8e6f26d566",
+    "topic_id": "screen_time",
+    "title": "Earning Screen Time",
+    "subtitle": "Screens as privilege, not right",
+    "tips": [
+      "Complete responsibilities first",
+      "Tie screen time to outdoor play time",
+      "Use apps that track and reward",
+      "Be consistent with the system",
+      "Don't use screens as only reward"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.412965",
+    "generation_method": "template"
+  },
+  {
+    "id": "b6db0948-4f29-4554-abf4-0bec3071c29d",
+    "topic_id": "screen_time",
+    "title": "Managing Screen Addiction Signs",
+    "subtitle": "When screens become a problem",
+    "tips": [
+      "Watch for withdrawal when screens removed",
+      "Notice if they only want screen activities",
+      "Check for sleep and mood changes",
+      "Gradually reduce, don't go cold turkey",
+      "Seek help if needed"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83d\udcf1",
+    "color_theme": "tech_blue",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.412970",
+    "generation_method": "template"
+  }
+]

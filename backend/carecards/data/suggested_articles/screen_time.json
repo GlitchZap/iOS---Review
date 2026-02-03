@@ -1,0 +1,82 @@
+[
+  {
+    "id": "b61146c06587",
+    "url": "https://www.healthychildren.org/English/family-life/Media/Pages/school-cell-phone-policies-tips-for-families.aspx",
+    "domain": "www.healthychildren.org",
+    "category_id": "screen_time",
+    "category_title": "Screen Time",
+    "title": "School Cell Phone Policies: Tips for Families",
+    "authors": [],
+    "publish_date": "2025-08-26T00:00:00",
+    "top_image": "https://www.healthychildren.org//SiteCollectionImagesArticleImages/school-cell-phone-policies-tips-for-families-2.png?RenditionID=3",
+    "summary": "Page Content\n\nBy: Jenny Radesky, MD, FAAP & Megan A Moreno, MD, FAAP\n\nDoes your child or teen's school have a new phone policy starting this year. Some schools now ask students to keep phones away \"bell-to-bell,\" from the start of classes through ...",
+    "key_takeaways": [
+      "Tip: If you're worried about communicating during emergencies, talk to the school and review their",
+      "Read the full article for detailed tips"
+    ],
+    "reading_time_minutes": 5,
+    "age_groups": [
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "📱",
+    "color": "#88B04B",
+    "full_text_length": 5315,
+    "extraction_method": "newspaper3k",
+    "scraped_at": "2026-01-26T16:02:09.851105"
+  },
+  {
+    "id": "63162163494c",
+    "url": "https://www.commonsensemedia.org",
+    "domain": "www.commonsensemedia.org",
+    "category_id": "screen_time",
+    "category_title": "Screen Time",
+    "title": "Common Sense Media: Age-Based Media Reviews for Families",
+    "authors": [],
+    "publish_date": null,
+    "top_image": "https://www.commonsensemedia.org/themes/custom/common_sense_media_theme/images/share/logo-commonsense-share-012021.jpg",
+    "summary": "Outstanding family entertainment selected to receive our seal for quality and impact. Since 2003, Common Sense has been the leading independent source for media recommendations and advice for families. Wherever your family likes to stream or shop,...",
+    "key_takeaways": [
+      "Read the full article for detailed tips"
+    ],
+    "reading_time_minutes": 1,
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "📱",
+    "color": "#88B04B",
+    "full_text_length": 348,
+    "extraction_method": "newspaper3k",
+    "scraped_at": "2026-01-26T16:02:11.031088"
+  },
+  {
+    "id": "030b08c9f3eb",
+    "url": "https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/qa-portal/qa",
+    "domain": "www.aap.org",
+    "category_id": "screen_time",
+    "category_title": "Screen Time",
+    "title": "Error",
+    "authors": [],
+    "publish_date": null,
+    "top_image": "https://www.aap.org/Images/Favicon/AAP-Favicon-4_Black.png",
+    "summary": "It appears you are using Internet Explorer as your web browser. Please note, Internet Explorer is no longer up-to-date and can cause problems in how this website functions\n\nThis site functions best using the latest versions of any of the following...",
+    "key_takeaways": [
+      "Read the full article for detailed tips"
+    ],
+    "reading_time_minutes": 1,
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "📱",
+    "color": "#88B04B",
+    "full_text_length": 377,
+    "extraction_method": "newspaper3k",
+    "scraped_at": "2026-01-26T16:02:14.809580"
+  }
+]

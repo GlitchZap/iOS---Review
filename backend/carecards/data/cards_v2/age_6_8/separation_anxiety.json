@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b4eb6242-2f63-4069-b6db-ca43d54166ae",
+    "topic_id": "separation_anxiety",
+    "title": "Regression at Transitions",
+    "subtitle": "When anxiety returns",
+    "tips": [
+      "New baby, new school can trigger it",
+      "Return to basics that worked before",
+      "Extra connection time helps",
+      "Don't shame the regression",
+      "This phase will pass again"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83e\udd17",
+    "color_theme": "warm_pink",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.416887",
+    "generation_method": "template"
+  },
+  {
+    "id": "ce7768fb-5abc-46bd-b0e8-6aa02c3f9f80",
+    "topic_id": "separation_anxiety",
+    "title": "Older Kids & Separation",
+    "subtitle": "When bigger kids struggle",
+    "tips": [
+      "Take their fears seriously",
+      "Talk through worries together",
+      "Problem-solve coping strategies",
+      "Check in with school counselor",
+      "Consider if anxiety needs more support"
+    ],
+    "age_groups": [
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd17",
+    "color_theme": "warm_pink",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.416892",
+    "generation_method": "template"
+  },
+  {
+    "id": "a632260f-c7b8-41af-8123-e0aea6672716",
+    "topic_id": "separation_anxiety",
+    "title": "Building Independence",
+    "subtitle": "Confidence grows with practice",
+    "tips": [
+      "Give age-appropriate freedom",
+      "Let them do things themselves",
+      "Praise brave behavior",
+      "Tell stories about their courage",
+      "Trust their growing capability"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd17",
+    "color_theme": "warm_pink",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.416901",
+    "generation_method": "template"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "a1ae7a3a-96d1-4a84-b441-1c5ab7699da5",
+    "topic_id": "potty_training",
+    "title": "Signs of Readiness",
+    "subtitle": "Is your child ready?",
+    "tips": [
+      "Stays dry for 2+ hours",
+      "Shows interest in the bathroom",
+      "Can follow simple instructions",
+      "Can pull pants up and down",
+      "Tells you when diaper is wet/dirty"
+    ],
+    "age_groups": [
+      "2-4"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 1,
+    "generated_at": "2026-01-26T15:35:17.415106",
+    "generation_method": "template"
+  },
+  {
+    "id": "e0911269-fee5-47ff-badf-fca04d167df6",
+    "topic_id": "potty_training",
+    "title": "Get the Right Gear",
+    "subtitle": "Set up for success",
+    "tips": [
+      "Child-size potty or seat adapter",
+      "Step stool for regular toilet",
+      "Easy on/off pants (no buttons)",
+      "Training underwear or pull-ups",
+      "Books about potty for kids"
+    ],
+    "age_groups": [
+      "2-4"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 2,
+    "generated_at": "2026-01-26T15:35:17.415114",
+    "generation_method": "template"
+  },
+  {
+    "id": "1da5d629-53a2-4b65-a4dc-e5f18612a1d1",
+    "topic_id": "potty_training",
+    "title": "The 3-Day Method",
+    "subtitle": "Intensive training approach",
+    "tips": [
+      "Clear your schedule for 3 days",
+      "Stay home and near the potty",
+      "Ditch diapers completely",
+      "Watch for signs and rush to potty",
+      "Celebrate every success"
+    ],
+    "age_groups": [
+      "2-4"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 3,
+    "generated_at": "2026-01-26T15:35:17.415119",
+    "generation_method": "template"
+  },
+  {
+    "id": "713561c1-5ce3-49cc-ad54-cd4c84f538b1",
+    "topic_id": "potty_training",
+    "title": "Gentle Potty Training",
+    "subtitle": "A slower, no-pressure approach",
+    "tips": [
+      "Let them sit on potty during routine",
+      "No pressure to produce",
+      "Follow their lead and interest",
+      "Use pull-ups as transition",
+      "May take weeks or months"
+    ],
+    "age_groups": [
+      "2-4"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 4,
+    "generated_at": "2026-01-26T15:35:17.415124",
+    "generation_method": "template"
+  },
+  {
+    "id": "8a0c83fa-2734-422c-936b-433972bc3e1a",
+    "topic_id": "potty_training",
+    "title": "Handle Accidents Well",
+    "subtitle": "They're part of learning",
+    "tips": [
+      "Stay calm and neutral",
+      "Clean up matter-of-factly",
+      "Say 'Accidents happen, let's try again'",
+      "Never shame or punish",
+      "Keep spare clothes everywhere"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 5,
+    "generated_at": "2026-01-26T15:35:17.415129",
+    "generation_method": "template"
+  },
+  {
+    "id": "72d6c979-f370-4901-a949-63a8f457ce34",
+    "topic_id": "potty_training",
+    "title": "Motivation & Rewards",
+    "subtitle": "Celebrate progress",
+    "tips": [
+      "Sticker charts work for many kids",
+      "Small treats for initial success",
+      "Praise effort, not just results",
+      "Special 'big kid' underwear",
+      "Fade rewards as it becomes habit"
+    ],
+    "age_groups": [
+      "2-4"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 6,
+    "generated_at": "2026-01-26T15:35:17.415133",
+    "generation_method": "template"
+  },
+  {
+    "id": "70b55bb7-9975-498e-a14e-092bbfdb75af",
+    "topic_id": "potty_training",
+    "title": "Nighttime Training",
+    "subtitle": "A separate milestone",
+    "tips": [
+      "Nighttime dryness comes later",
+      "Use waterproof mattress protector",
+      "Limit fluids before bed",
+      "Wake them to pee before you sleep",
+      "Some kids aren't ready until 5-7"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.415138",
+    "generation_method": "template"
+  },
+  {
+    "id": "45a0988b-9bf7-4c05-a409-dcdd53b9e1fb",
+    "topic_id": "potty_training",
+    "title": "Public Restroom Bravery",
+    "subtitle": "Handling bathrooms out and about",
+    "tips": [
+      "Bring potty seat adapter in diaper bag",
+      "Carry disposable seat covers",
+      "Warn about loud flush sounds",
+      "Let them cover ears for auto-flush",
+      "Practice at quiet public restrooms"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.415144",
+    "generation_method": "template"
+  },
+  {
+    "id": "7d80cfc2-6027-4cdd-895d-5a341c0d7593",
+    "topic_id": "potty_training",
+    "title": "Regression Solutions",
+    "subtitle": "When trained kids have setbacks",
+    "tips": [
+      "Look for stressors (new sibling, school)",
+      "Rule out medical issues (UTI)",
+      "Go back to basics without shame",
+      "Increase potty reminders",
+      "Stay patient\u2014it usually passes"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.415149",
+    "generation_method": "template"
+  },
+  {
+    "id": "71a0cc77-be63-4608-aead-83b465a88208",
+    "topic_id": "potty_training",
+    "title": "Wiping & Hygiene",
+    "subtitle": "Teaching clean-up skills",
+    "tips": [
+      "Girls wipe front to back",
+      "Teach proper amount of toilet paper",
+      "Check their work for a while",
+      "Hand washing is non-negotiable",
+      "Full independence by kindergarten"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83d\udebd",
+    "color_theme": "sunny_yellow",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.415154",
+    "generation_method": "template"
+  }
+]

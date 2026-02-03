@@ -1,0 +1,292 @@
+[
+  {
+    "id": "101daf65-6a80-467c-9614-c93822fba2d6",
+    "topic_id": "eating_habits",
+    "title": "Division of Responsibility",
+    "subtitle": "You decide what/when, they decide how much",
+    "tips": [
+      "You choose the foods offered",
+      "You set meal and snack times",
+      "They decide how much to eat",
+      "They decide whether to eat at all",
+      "Trust their hunger cues"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 1,
+    "generated_at": "2026-01-26T15:35:17.413944",
+    "generation_method": "template"
+  },
+  {
+    "id": "148ce4df-54d2-424c-9f65-cd29ced39170",
+    "topic_id": "eating_habits",
+    "title": "No Pressure Mealtimes",
+    "subtitle": "Relax\u2014pressure backfires",
+    "tips": [
+      "No 'just one more bite'",
+      "Don't bribe with dessert",
+      "Keep mealtime pleasant",
+      "Ignore what they don't eat",
+      "Praise trying, not finishing"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 2,
+    "generated_at": "2026-01-26T15:35:17.413950",
+    "generation_method": "template"
+  },
+  {
+    "id": "d0aa1551-f3d9-44f7-8293-97350682a109",
+    "topic_id": "eating_habits",
+    "title": "Exposure, Exposure, Exposure",
+    "subtitle": "It takes 15-20 tries to like a food",
+    "tips": [
+      "Offer new foods alongside familiar ones",
+      "Let them explore without eating",
+      "Touching and smelling counts",
+      "Don't give up after a few rejections",
+      "Keep offering without pressure"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 3,
+    "generated_at": "2026-01-26T15:35:17.413955",
+    "generation_method": "template"
+  },
+  {
+    "id": "1fc4e2d8-17d1-44b3-b2ee-9e0fb8429639",
+    "topic_id": "eating_habits",
+    "title": "Picky Eater Strategies",
+    "subtitle": "Expand their palate gently",
+    "tips": [
+      "Serve at least one 'safe' food",
+      "Let them help cook",
+      "Make food fun with shapes/arrangements",
+      "Eat together as a family",
+      "Try dips and sauces"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 4,
+    "generated_at": "2026-01-26T15:35:17.413960",
+    "generation_method": "template"
+  },
+  {
+    "id": "4cf543b1-7a72-4da3-9fc6-ba43ae19b9be",
+    "topic_id": "eating_habits",
+    "title": "Family Meals Matter",
+    "subtitle": "Eating together changes everything",
+    "tips": [
+      "Aim for 5+ family meals per week",
+      "Turn off screens during meals",
+      "Make conversation the focus",
+      "Everyone eats the same meal",
+      "Keep it short if needed"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 5,
+    "generated_at": "2026-01-26T15:35:17.413964",
+    "generation_method": "template"
+  },
+  {
+    "id": "5aa3e011-d497-4721-bc57-633d6aa5d638",
+    "topic_id": "eating_habits",
+    "title": "Smart Snacking",
+    "subtitle": "Healthy fuel between meals",
+    "tips": [
+      "Set snack times, not all-day grazing",
+      "Offer fruits, veggies, protein",
+      "Don't use snacks as rewards",
+      "Keep portions small",
+      "Close kitchen between times"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 6,
+    "generated_at": "2026-01-26T15:35:17.413969",
+    "generation_method": "template"
+  },
+  {
+    "id": "5b379712-3771-421f-ab0f-1f722158d056",
+    "topic_id": "eating_habits",
+    "title": "Involve Kids in Food",
+    "subtitle": "From store to table",
+    "tips": [
+      "Let them pick produce at the store",
+      "Give age-appropriate kitchen tasks",
+      "Grow a small herb or veggie garden",
+      "Let them choose from 2-3 options",
+      "Make cooking a fun activity"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 7,
+    "generated_at": "2026-01-26T15:35:17.413973",
+    "generation_method": "template"
+  },
+  {
+    "id": "9f274e90-44ff-4ab7-8150-1d0ec1e5a9af",
+    "topic_id": "eating_habits",
+    "title": "Handle Sweets Wisely",
+    "subtitle": "No forbidden foods",
+    "tips": [
+      "Don't make sweets 'forbidden'",
+      "Serve dessert with the meal sometimes",
+      "Keep portion sizes appropriate",
+      "Don't use sweets as reward",
+      "Teach moderation, not restriction"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 8,
+    "generated_at": "2026-01-26T15:35:17.413978",
+    "generation_method": "template"
+  },
+  {
+    "id": "4b9a2e85-fa2b-4491-9bdf-4713bf4acac4",
+    "topic_id": "eating_habits",
+    "title": "Texture & Sensory Issues",
+    "subtitle": "When it's more than picky eating",
+    "tips": [
+      "Respect genuine sensory aversions",
+      "Introduce new textures slowly",
+      "Offer foods in preferred textures",
+      "Consider feeding therapy if severe",
+      "Don't force gagging foods"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 9,
+    "generated_at": "2026-01-26T15:35:17.413982",
+    "generation_method": "template"
+  },
+  {
+    "id": "27427592-e3a1-4270-a38b-13b4d722e0f6",
+    "topic_id": "eating_habits",
+    "title": "Healthy Relationship with Food",
+    "subtitle": "Building lifelong habits",
+    "tips": [
+      "Avoid labeling foods 'good' or 'bad'",
+      "Don't use food to comfort emotions",
+      "Model enjoying variety yourself",
+      "Talk positively about your body",
+      "Focus on health, not weight"
+    ],
+    "age_groups": [
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 10,
+    "generated_at": "2026-01-26T15:35:17.413986",
+    "generation_method": "template"
+  },
+  {
+    "id": "75b3b531-6d37-4c38-a15a-4a9e0ccf4982",
+    "topic_id": "eating_habits",
+    "title": "Mealtime Structure",
+    "subtitle": "Predictable meal rhythm",
+    "tips": [
+      "3 meals + 2-3 snacks daily",
+      "Same times each day roughly",
+      "2-3 hours between eating times",
+      "Don't skip meals",
+      "End meals after reasonable time"
+    ],
+    "age_groups": [
+      "2-4",
+      "4-6",
+      "6-8",
+      "8-10"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 11,
+    "generated_at": "2026-01-26T15:35:17.413991",
+    "generation_method": "template"
+  },
+  {
+    "id": "ae0333a8-e831-4097-aa1d-d69b329e6f5e",
+    "topic_id": "eating_habits",
+    "title": "Toddler Eating Reality",
+    "subtitle": "What's normal at 2-4",
+    "tips": [
+      "Appetite varies wildly day to day",
+      "Food jags are normal",
+      "Growth slows, so does eating",
+      "Messes are part of learning",
+      "They won't starve themselves"
+    ],
+    "age_groups": [
+      "2-4"
+    ],
+    "emoji": "\ud83e\udd57",
+    "color_theme": "fresh_green",
+    "source_articles": [],
+    "variation": 12,
+    "generated_at": "2026-01-26T15:35:17.413995",
+    "generation_method": "template"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "generated_at": "2026-01-26T15:35:17.423730",
+  "total_cards": 118,
+  "topics": {
+    "tantrums": {
+      "title": "Managing Tantrums",
+      "count": 12,
+      "age_distribution": {
+        "2-4": 10,
+        "4-6": 10,
+        "6-8": 9,
+        "8-10": 6
+      }
+    },
+    "sleep_routines": {
+      "title": "Sleep & Bedtime",
+      "count": 12,
+      "age_distribution": {
+        "2-4": 11,
+        "4-6": 10,
+        "6-8": 7,
+        "8-10": 5
+      }
+    },
+    "screen_time": {
+      "title": "Screen Time Balance",
+      "count": 10,
+      "age_distribution": {
+        "2-4": 7,
+        "4-6": 9,
+        "6-8": 10,
+        "8-10": 7
+      }
+    },
+    "eating_habits": {
+      "title": "Healthy Eating",
+      "count": 12,
+      "age_distribution": {
+        "2-4": 11,
+        "4-6": 11,
+        "6-8": 9,
+        "8-10": 7
+      }
+    },
+    "potty_training": {
+      "title": "Potty Training",
+      "count": 10,
+      "age_distribution": {
+        "2-4": 10,
+        "4-6": 5,
+        "6-8": 0,
+        "8-10": 0
+      }
+    },
+    "social_skills": {
+      "title": "Social Skills",
+      "count": 10,
+      "age_distribution": {
+        "2-4": 5,
+        "4-6": 8,
+        "6-8": 7,
+        "8-10": 5
+      }
+    },
+    "separation_anxiety": {
+      "title": "Separation Anxiety",
+      "count": 10,
+      "age_distribution": {
+        "2-4": 9,
+        "4-6": 9,
+        "6-8": 3,
+        "8-10": 2
+      }
+    },
+    "behavior_management": {
+      "title": "Positive Discipline",
+      "count": 12,
+      "age_distribution": {
+        "2-4": 10,
+        "4-6": 12,
+        "6-8": 11,
+        "8-10": 9
+      }
+    },
+    "mixed_emotional_development": {
+      "title": "Emotional Growth",
+      "count": 10,
+      "age_distribution": {
+        "2-4": 7,
+        "4-6": 10,
+        "6-8": 10,
+        "8-10": 8
+      }
+    },
+    "mixed_confidence_independence": {
+      "title": "Building Confidence",
+      "count": 10,
+      "age_distribution": {
+        "2-4": 6,
+        "4-6": 10,
+        "6-8": 10,
+        "8-10": 9
+      }
+    },
+    "mixed_sibling_family": {
+      "title": "Family Harmony",
+      "count": 10,
+      "age_distribution": {
+        "2-4": 8,
+        "4-6": 10,
+        "6-8": 9,
+        "8-10": 9
+      }
+    }
+  }
+}
